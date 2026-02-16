@@ -3,7 +3,7 @@ title: "Latency Optimization in Distributed Neural Logic"
 date: "2026-01-28"
 description: "Achieving sub-15ms execution across global nodes using decentralized consensus protocols and ReAct loops."
 author: "Risinloop Engineering"
-image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?auto=format&fit=crop&q=80&w=1200"
+image: "https://images.unsplash.com/photo-1617791160536-598cf32026fb?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 tags: ["Performance", "ReAct Framework", "Edge Computing", "Low Latency"]
 ---
 
