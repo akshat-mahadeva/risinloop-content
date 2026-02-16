@@ -18,3 +18,5 @@ Traditional synchronization methods are no longer sufficient for the scale of 20
 
 ### What's Next?
 We are opening the first round of beta testing for the coordination layer. If you are an enterprise partner, check your dashboard for the new API keys.
+
+![wallpapersden com_surreal-psychedelic-landscape-amazing-ai-art_3840x2160](https://github.com/user-attachments/assets/4faae3d0-f92e-41b9-9693-389eff28b6e0)
